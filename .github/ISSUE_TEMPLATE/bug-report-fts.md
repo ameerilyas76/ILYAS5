@@ -1,12 +1,6 @@
----
-Name: Bug Report-FTS
-About: Case Self Service Request....
-Title: Case Template 
-Labels: Documentation
-Assignees: Ameerilyas76
 
----
-
+#### Bug Report-FTS
+### Case Template 
 # Case Self Service Request
 
 ### Common Points:
