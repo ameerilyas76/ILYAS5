@@ -1,30 +1,30 @@
 ---
-name: Bug Report-FTS
-about: Case Self Service Request....
-title: ''
-labels: documentation
-assignees: ameerilyas76
+Name: Bug Report-FTS
+About: Case Self Service Request....
+Title: Case Template 
+Labels: Documentation
+Assignees: Ameerilyas76
 
 ---
 
-Case Self Service Request
+# Case Self Service Request
 
-Common Points
-•	Requester Email from User Account-(Low priority)
-•	Add Case Identity Field to avoid duplicate request
-Returning Labor Request
-•	Need API for Get working Employee (in Productivity)
-•	Other requests use Get Active Employee API
+### Common Points:
 
-On Validation
-•	following request add Validation API and configure
-o	Returning Labor Request(confirm employee working with customer in PRL)
-o	Iqama Renewal Request
-o	ATM Renewal Request
-o	Iqama Re-issuance Request
-o	ATM Re-issuance Request
-o	Escaped Request
-o	Retirement Request
+- 	Requester Email from User Account-(Low priority)
+- Add Case Identity Field to avoid duplicate request
+- Returning Labor Request
+- 	Need API for Get working Employee (in Productivity)
+- 	Other requests use Get Active Employee API
+### On Validation: 
+- 	following request add Validation API and configure
+- 	Returning Labor Request(confirm employee working with customer in PRL)
+- 	Iqama Renewal Request
+-  ATM Renewal Request
+- 	Iqama Re-issuance Request
+- 	ATM Re-issuance Request
+- 	Escaped Request
+- 	Retirement Request
 
 Integration
 Creation
